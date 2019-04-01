@@ -1,3 +1,3 @@
 # HelloW
 hello project
-meking some changes
+making some changes
